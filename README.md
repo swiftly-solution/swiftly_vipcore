@@ -70,6 +70,18 @@ The following exports are available:
 |   !vip  |        Opens the VIP Menu.        |
 |     !adminvip    |        Opens the VIP Admin Menu.        |
 
+## Adding a VIP Group ⚙️
+
+You just need to add another entry in `groups` list from `addons/swiftly/configs/plugins/vips.json` with the following properties:
+
+```
+* id => String (Internal identifier)
+* display_name => String (Display name for VIP Group)
+* features => Object (The key-value pairs for features)
+```
+
+And that's it, you've succesfully added a new VIP Group on server.
+
 ### Creating A Pull Request 😃
 
 1. Fork the Project
