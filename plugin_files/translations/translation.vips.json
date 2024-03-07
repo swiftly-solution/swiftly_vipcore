@@ -1,0 +1,142 @@
+{
+    "no_access": {
+        "en": "%s You don't have access to use this command.\n",
+        "ro": "%s Nu ai acces să folosești această comandă.\n"
+    },
+    "success_reloadconfig": {
+        "en": "%s You've succesfully reloaded VIP Configuration.",
+        "ro": "%s Ai reîncărcat cu succes configurația pentru VIP."
+    },
+    "no_vips": {
+        "en": "There are no VIP Players online.",
+        "ro": "Nu este niciun jucător VIP online."
+    },
+    "no_players_without_vip": {
+        "en": "There are no players without VIP online.",
+        "ro": "Nu este niciun jucător fără VIP online."
+    },
+    "not_connected": {
+        "en": "%s The player is no more connected.",
+        "ro": "%s Jucătorul nu mai este conectat."
+    },
+    "online_vips": {
+        "en": "Online VIP Players",
+        "ro": "Jucători VIP Online"
+    },
+    "vip_menu": {
+        "en": "VIP Menu",
+        "ro": "Meniu VIP"
+    },
+    "vip_info": {
+        "en": "VIP Informations",
+        "ro": "Informații VIP"
+    },
+    "no_vip": {
+        "en": "%s You don't have any VIP group.",
+        "ro": "%s Nu ai niciun grup VIP."
+    },
+    "status": {
+        "en": "Status",
+        "ro": "Status"
+    },
+    "enabled": {
+        "en": "Enabled",
+        "ro": "Activat"
+    },
+    "disabled": {
+        "en": "Disabled",
+        "ro": "Dezactivat"
+    },
+    "toggle_status": {
+        "en": "Toggle Status",
+        "ro": "Schimbă Status"
+    },
+    "name": {
+        "en": "Name",
+        "ro": "Nume"
+    },
+    "expires_at": {
+        "en": "Expires at",
+        "ro": "Expiră la"
+    },
+    "add_vip": {
+        "en": "Add VIP",
+        "ro": "Adaugă VIP"
+    },
+    "remove_vip": {
+        "en": "Remove VIP",
+        "ro": "Șterge VIP"
+    },
+    "see_vip_groups": {
+        "en": "See VIP Groups",
+        "ro": "Vezi grupurile VIP"
+    },
+    "reload_configuration": {
+        "en": "Reload Configuration",
+        "ro": "Reîncarcă configurația"
+    },
+    "features": {
+        "en": "Features",
+        "ro": "Beneficii"
+    },
+    "seconds": {
+        "en": "%.2f second(s)",
+        "ro": "%.2f secunde"
+    },
+    "minutes": {
+        "en": "%.2f minute(s)",
+        "ro": "%.2f minut(e)"
+    },
+    "hours": {
+        "en": "%.2f hour(s)",
+        "ro": "%.2f ore"
+    },
+    "days": {
+        "en": "%.2f day(s)",
+        "ro": "%.2f zi(le)"
+    },
+    "forever": {
+        "en": "Forever",
+        "ro": "Pentru totdeauna"
+    },
+    "never": {
+        "en": "Never",
+        "ro": "Niciodată"
+    },
+    "time": {
+        "en": "Time",
+        "ro": "Timp"
+    },
+    "group": {
+        "en": "Group",
+        "ro": "Grup"
+    },
+    "addvip_confirm": {
+        "en": "Are you sure do you want to give <font color='#%s'>%s</font> VIP <font color='#%s'>%s</font> for <font color='#%s'>%s</font>?",
+        "ro": "Ești sigur că vrei să îi dai lui <font color='#%s'>%s</font> VIP <font color='#%s'>%s</font> pentru <font color='#%s'>%s</font>?"
+    },
+    "removevip_confirm": {
+        "en": "Are you sure do you want to remove <font color='#%s'>%s's</font> VIP <font color='#%s'>%s</font>?",
+        "ro": "Ești sigur că vrei să îi scoți lui <font color='#%s'>%s</font> VIP <font color='#%s'>%s</font>?"
+    },
+    "confirm": {
+        "en": "Confirm",
+        "ro": "Confirmare"
+    },
+    "yes": {
+        "en": "Yes",
+        "ro": "Da"
+    },
+    "no": {
+        "en": "No",
+        "ro": "Nu"
+    },
+    "addvip_finish": {
+        "en": "%s You've succesfully gave VIP %s to %s for %s.",
+        "ro": "%s I-ai dat cu succes VIP %s lui %s pentru %s."
+    },
+    "removevip_finish": {
+        "en": "%s You've succesfully removed %s's VIP.",
+        "ro": "%s I-ai șters cu succes VIP-ul lui %s."
+    }
+}
