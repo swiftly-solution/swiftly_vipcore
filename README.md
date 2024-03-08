@@ -47,7 +47,7 @@
 
 * To add a VIP Player on server, you need can use the `sw_addvip` command in Server Console.
 
-* Or, you can use `sw_addadmin` to open the Admin Menu and select `Add VIP`.
+* Or, you can use `sw_adminvip` to open the Admin Menu and select `Add VIP`.
 
 ### VIP Core Exports 🛠️
 
